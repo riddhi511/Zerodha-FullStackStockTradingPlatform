@@ -1,2 +1,2 @@
 # Zerodha-FullStackStockTradingPlatform
-A FullStack Stock TradingP latform
+A FullStack Stock Trading Platform
